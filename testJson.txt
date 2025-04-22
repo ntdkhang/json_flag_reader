@@ -1,0 +1,6 @@
+{
+    "name": "Damri",
+    "latitude": 11.5380222,
+    "longitude": 107.6474407,
+    "visit": true
+}
